@@ -1,0 +1,19 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  span{
+    padding: 10px;
+  }
+  img{
+    height: 70px;
+    width: 70px;
+  }
+
+  button mat-icon-button .example-icon{
+    height: 450px;
+    width: 100px;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  }
